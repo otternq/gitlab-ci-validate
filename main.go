@@ -1,5 +1,5 @@
 // Command gitlab-ci-validate validates the supplies yaml file against Gitlab.
-package main
+package main // import "go.otter.engineering/gitlab-ci-validate"
 
 import (
 	"fmt"
